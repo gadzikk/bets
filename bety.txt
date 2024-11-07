@@ -6,7 +6,8 @@ https://www.livescore.in/pl/pilka-nozna/polska/pko-bp-ekstraklasa/#/Qu6CIhxL/tab
 
 balance: 100
 - 10 + 16.79 = 6.79
-- 12
+- 12 + 10.44 = -1,56
+-  8 
 
 ==============================================================
 przemyslenia:
@@ -23,7 +24,7 @@ dobrze grac na 12.
 mozna grac na cala kolejke tasiemca z podstawkami.
 dobrze jest podzielic tasiemca z podstawkami na 2 czesci, cala ekstraklasa na 2 czesci, cala 1-liga na 2 czesci i je ze soba zestawiac bo cala kolejke dobrze wytypowac jest ciezko
 przykladowo parowanie czesciami 1-e z 1-1g, 1-e 2-lg, 2-e 1-lg, 2e-2lg
-parowanie czesciami mozna polaczyc z graniem na ktorakolwiek wygra (12) 
+parowanie czesciami mozna polaczyc z obstawianiem na ktorakolwiek wygra (12) 
 oraz betowanie calej kolejki a nastepnie kupon z przeciwstawnymi niektorymi bliskimi meczami
 lub kupon z przeciwstawnymi niektorymi bliskimi meczami z parowania
 
@@ -33,6 +34,29 @@ lub kupon z przeciwstawnymi niektorymi bliskimi meczami z parowania
 4 KUPON: E-2 LG-2
 5 KUPON: przeciwstawne z podstawkami 1-lg i e
 6 KUPON: 12 oraz niektore z podstawkami
+
+obstawianie na rzuty rozne to potencjalna zyla zlota, jezeli wiesz ktore druzyny graja ofensywnie, stawiasz 3 mecze i dochodzisz do kursu 15-19
+w ten sposob mozna cala lige postawic na rozne +8,5 +9,5 +11,5 po 3 mecze i prawdopodobienstwo wygranej zbiega do okolo 70 procent
+druzyny ktore graja ofensywnie: gornik zabrze, cracovia, legia, 
+mozna to laczyc z obstawianiem na 1,2 druzyna wiecej/mniej roznych
+
+z ciekawych zakladow jeszcze jest
+- 1/2 polowa obie druzyny strzela gola
+- 1-15 minuta spotkania wynik
+- nie padnie gol
+- 1 polowa mecz i liczba goli
+
+parowanie czesciami daje srednie rezultaty
+
+najlepiej bedzie teraz probowac
+- 12 oraz mecze z podstawkami
+- rzuty rozne +8,5 +9,5 +11,5 rowniez 1:+3,5, 2:-5,5, 2:+4,5
+
+1 KUPON: E-1 LG-1
+2 KUPON: E-2 
+3 KUPON: LG-2 12E
+4 KUPON: rozne i 12E
+
 ==============================================================
 
 ########## 17/10/24 ##########
@@ -444,45 +468,45 @@ Mo¿liwa wyp³ata:
 ########## 30/10/24 ##########
 
 sob., 2.11.2024, 14:45 3.png
-Raków Cz. - S.Mielec
+Raków Cz. - S.Mielec V
 Mecz: 1
 Pi³ka no¿na / Ekstraklasa Polska
 1.40
 ZALICZKA
 sob., 2.11.2024, 17:30 3.png
-M.Lublin - Pogoñ Sz.
+M.Lublin - Pogoñ Sz. V
 Wynik meczu - dwójtyp: 10
 Pi³ka no¿na / Ekstraklasa Polska
 1.66
 sob., 2.11.2024, 20:15 3.png
-P.Niepo³omice - Lech P.
+P.Niepo³omice - Lech P. X
 Mecz: 2
 Pi³ka no¿na / Ekstraklasa Polska
 na stadionie Cracovii /
 1.63
 ZALICZKA
 niedz., 3.11.2024, 12:15 3.png
-R.Radom - Piast G.
+R.Radom - Piast G. V
 Wynik meczu - dwójtyp: 10
 Pi³ka no¿na / Ekstraklasa Polska
 1.49
 pon., 4.11.2024, 17:00 3.png
-Polonia W. - S.Rzeszów
+Polonia W. - S.Rzeszów X
 Wynik meczu - dwójtyp: 02
 Pi³ka no¿na / Polska 1.liga
 1.59
 sob., 2.11.2024, 12:00 3.png
-Z.Pruszków - S.Stalowa Wola
+Z.Pruszków - S.Stalowa Wola X
 Wynik meczu - dwójtyp: 10
 Pi³ka no¿na / Polska 1.liga
 1.26
 sob., 2.11.2024, 19:35 3.png
-Arka G. - W.P³ock
+Arka G. - W.P³ock V
 Wynik meczu - dwójtyp: 10
 Pi³ka no¿na / Polska 1.liga
 1.24
 sob., 2.11.2024, 17:00 3.png
-G.£êczna - Nieciecza
+G.£êczna - Nieciecza X
 Wynik meczu - dwójtyp: 10
 Pi³ka no¿na / Polska 1.liga
 1.61
@@ -492,49 +516,49 @@ Ca³kowity kurs:
 Stawka:
 2,00 z³
 Mo¿liwa wyp³ata:
-39,72 z³
+39,72 z³ X
 
 
 sob., 2.11.2024, 14:45 3.png
-Raków Cz. - S.Mielec
+Raków Cz. - S.Mielec V
 Mecz: 1
 Pi³ka no¿na / Ekstraklasa Polska
 1.40
 ZALICZKA
 sob., 2.11.2024, 17:30 3.png
-M.Lublin - Pogoñ Sz.
+M.Lublin - Pogoñ Sz. V
 Wynik meczu - dwójtyp: 10
 Pi³ka no¿na / Ekstraklasa Polska
 1.66
 sob., 2.11.2024, 20:15 3.png
-P.Niepo³omice - Lech P.
+P.Niepo³omice - Lech P. X
 Mecz: 2
 Pi³ka no¿na / Ekstraklasa Polska
 na stadionie Cracovii /
 1.63
 ZALICZKA
 niedz., 3.11.2024, 12:15 3.png
-R.Radom - Piast G.
+R.Radom - Piast G. V
 Wynik meczu - dwójtyp: 10
 Pi³ka no¿na / Ekstraklasa Polska
 1.49
 niedz., 3.11.2024, 12:00 3.png
-MiedŸ L. - P.Siedlce
+MiedŸ L. - P.Siedlce V
 Mecz: 1
 Pi³ka no¿na / Polska 1.liga
 1.42
 sob., 2.11.2024, 14:30 3.png
-K.Ko³obrzeg - O.Opole
+K.Ko³obrzeg - O.Opole X
 Wynik meczu - dwójtyp: 10
 Pi³ka no¿na / Polska 1.liga
 1.39
 niedz., 3.11.2024, 17:00 3.png
-Warta Poz. - Ch.G³ogów
+Warta Poz. - Ch.G³ogów X
 Wynik meczu - dwójtyp: 02
 Pi³ka no¿na / Polska 1.liga
 1.68
 niedz., 3.11.2024, 14:30 3.png
-£KS £ódŸ - Ruch Chorzów
+£KS £ódŸ - Ruch Chorzów X
 Wynik meczu - dwójtyp: 10
 Pi³ka no¿na / Polska 1.liga
 1.36
@@ -544,51 +568,51 @@ Ca³kowity kurs:
 Stawka:
 2,00 z³
 Mo¿liwa wyp³ata:
-44,79 z³
+44,79 z³ X
 
 
 niedz., 3.11.2024, 14:45 3.png
-Górnik Z. - Jagiellonia
+Górnik Z. - Jagiellonia V
 Wynik meczu - dwójtyp: 02
 Pi³ka no¿na / Ekstraklasa Polska
 1.54
 niedz., 3.11.2024, 17:30 3.png
-Lechia G. - Cracovia
+Lechia G. - Cracovia V
 Wynik meczu - dwójtyp: 02
 Pi³ka no¿na / Ekstraklasa Polska
 1.38
 niedz., 3.11.2024, 20:15 3.png
-Legia W. - Widzew
+Legia W. - Widzew V
 Wynik meczu - dwójtyp: 10
 Pi³ka no¿na / Ekstraklasa Polska
 1.18
 pon., 4.11.2024, 18:00 3.png
-GKS Katowice - Korona K.
+GKS Katowice - Korona K. V
 Wynik meczu - dwójtyp: 02
 Pi³ka no¿na / Ekstraklasa Polska
 1.61
 pon., 4.11.2024, 20:30 3.png
-Zag.Lubin - Œl¹sk W.
+Zag.Lubin - Œl¹sk W. V
 Wynik meczu - dwójtyp: 10
 Pi³ka no¿na / Ekstraklasa Polska
 1.36
 pon., 4.11.2024, 17:00 3.png
-Polonia W. - S.Rzeszów
+Polonia W. - S.Rzeszów X
 Wynik meczu - dwójtyp: 02
 Pi³ka no¿na / Polska 1.liga
 1.59
 sob., 2.11.2024, 12:00 3.png
-Z.Pruszków - S.Stalowa Wola
+Z.Pruszków - S.Stalowa Wola X
 Wynik meczu - dwójtyp: 10
 Pi³ka no¿na / Polska 1.liga
 1.26
 sob., 2.11.2024, 19:35 3.png
-Arka G. - W.P³ock
+Arka G. - W.P³ock V
 Wynik meczu - dwójtyp: 10
 Pi³ka no¿na / Polska 1.liga
 1.24
 sob., 2.11.2024, 17:00 3.png
-G.£êczna - Nieciecza
+G.£êczna - Nieciecza X
 Wynik meczu - dwójtyp: 10
 Pi³ka no¿na / Polska 1.liga
 1.61
@@ -598,51 +622,51 @@ Ca³kowity kurs:
 Stawka:
 2,00 z³
 Mo¿liwa wyp³ata:
-38,65 z³
+38,65 z³ X
 
 
 niedz., 3.11.2024, 14:45 3.png
-Górnik Z. - Jagiellonia
+Górnik Z. - Jagiellonia V
 Wynik meczu - dwójtyp: 02
 Pi³ka no¿na / Ekstraklasa Polska
 1.54
 niedz., 3.11.2024, 17:30 3.png
-Lechia G. - Cracovia
+Lechia G. - Cracovia V
 Wynik meczu - dwójtyp: 02
 Pi³ka no¿na / Ekstraklasa Polska
 1.38
 niedz., 3.11.2024, 20:15 3.png
-Legia W. - Widzew
+Legia W. - Widzew V
 Wynik meczu - dwójtyp: 10
 Pi³ka no¿na / Ekstraklasa Polska
 1.18
 pon., 4.11.2024, 18:00 3.png
-GKS Katowice - Korona K.
+GKS Katowice - Korona K. V
 Wynik meczu - dwójtyp: 02
 Pi³ka no¿na / Ekstraklasa Polska
 1.61
 pon., 4.11.2024, 20:30 3.png
-Zag.Lubin - Œl¹sk W.
+Zag.Lubin - Œl¹sk W. V
 Wynik meczu - dwójtyp: 10
 Pi³ka no¿na / Ekstraklasa Polska
 1.36
 niedz., 3.11.2024, 12:00 3.png
-MiedŸ L. - P.Siedlce
+MiedŸ L. - P.Siedlce V
 Mecz: 1
 Pi³ka no¿na / Polska 1.liga
 1.42
 sob., 2.11.2024, 14:30 3.png
-K.Ko³obrzeg - O.Opole
+K.Ko³obrzeg - O.Opole X
 Wynik meczu - dwójtyp: 10
 Pi³ka no¿na / Polska 1.liga
 1.39
 niedz., 3.11.2024, 17:00 3.png
-Warta Poz. - Ch.G³ogów
+Warta Poz. - Ch.G³ogów X
 Wynik meczu - dwójtyp: 02
 Pi³ka no¿na / Polska 1.liga
 1.68
 pon., 4.11.2024, 17:00 3.png
-Polonia W. - S.Rzeszów
+Polonia W. - S.Rzeszów X
 Wynik meczu - dwójtyp: 02
 Pi³ka no¿na / Polska 1.liga
 1.59
@@ -652,26 +676,26 @@ Ca³kowity kurs:
 Stawka:
 2,00 z³
 Mo¿liwa wyp³ata:
-50,95 z³
+50,95 z³ X
 
 
 niedz., 3.11.2024, 14:30 3.png
-£KS £ódŸ - Ruch Chorzów
+£KS £ódŸ - Ruch Chorzów V
 Wynik meczu - dwójtyp: 02
 Pi³ka no¿na / Polska 1.liga
 1.62
 sob., 2.11.2024, 14:30 3.png
-K.Ko³obrzeg - O.Opole
+K.Ko³obrzeg - O.Opole V
 Wynik meczu - dwójtyp: 02
 Pi³ka no¿na / Polska 1.liga
 1.50
 sob., 2.11.2024, 19:35 3.png
-Arka G. - W.P³ock
+Arka G. - W.P³ock X
 Wynik meczu - dwójtyp: 02
 Pi³ka no¿na / Polska 1.liga
 1.91
 pon., 4.11.2024, 17:00 3.png
-Polonia W. - S.Rzeszów
+Polonia W. - S.Rzeszów V
 Wynik meczu - dwójtyp: 10
 Pi³ka no¿na / Polska 1.liga
 1.39
@@ -681,36 +705,36 @@ Ca³kowity kurs:
 Stawka:
 2,00 z³
 Mo¿liwa wyp³ata:
-11,35 z³
+11,35 z³ X
 
 
 niedz., 3.11.2024, 14:30 3.png
-£KS £ódŸ - Ruch Chorzów
+£KS £ódŸ - Ruch Chorzów V
 Wynik meczu - dwójtyp: 12
 Pi³ka no¿na / Polska 1.liga
 1.30
 sob., 2.11.2024, 19:35 3.png
-Arka G. - W.P³ock
+Arka G. - W.P³ock V
 Wynik meczu - dwójtyp: 12
 Pi³ka no¿na / Polska 1.liga
 1.27
 sob., 2.11.2024, 17:00 3.png
-G.£êczna - Nieciecza
+G.£êczna - Nieciecza V
 Wynik meczu - dwójtyp: 12
 Pi³ka no¿na / Polska 1.liga
 1.31
 sob., 2.11.2024, 17:30 3.png
-M.Lublin - Pogoñ Sz.
+M.Lublin - Pogoñ Sz. V
 Wynik meczu - dwójtyp: 12
 Pi³ka no¿na / Ekstraklasa Polska
 1.29
 niedz., 3.11.2024, 14:45 3.png
-Górnik Z. - Jagiellonia
+Górnik Z. - Jagiellonia V
 Wynik meczu - dwójtyp: 02
 Pi³ka no¿na / Ekstraklasa Polska
 1.54
 niedz., 3.11.2024, 17:30 3.png
-Lechia G. - Cracovia
+Lechia G. - Cracovia V
 Wynik meczu - dwójtyp: 02
 Pi³ka no¿na / Ekstraklasa Polska
 1.38
@@ -720,4 +744,162 @@ Ca³kowity kurs:
 Stawka:
 2,00 z³
 Mo¿liwa wyp³ata:
-10,44 z³
+10,44 z³ V
+
+
+########## 07/10/24 ##########
+
+jutro 18:00 3.png
+Piast G. - M.Lublin
+Wynik meczu - dwójtyp: 02
+Pi³ka no¿na / Ekstraklasa Polska
+1.91
+jutro 20:30 3.png
+Pogoñ Sz. - R.Radom
+Wynik meczu - dwójtyp: 12
+Pi³ka no¿na / Ekstraklasa Polska
+1.23
+sob., 9.11.2024, 12:15 3.png
+Korona K. - Lechia G.
+Wynik meczu - dwójtyp: 10
+Pi³ka no¿na / Ekstraklasa Polska
+1.24
+sob., 9.11.2024, 14:45 3.png
+Cracovia - GKS Katowice
+Wynik meczu - dwójtyp: 10
+Pi³ka no¿na / Ekstraklasa Polska
+1.24
+dzisiaj 19:00 3.png
+Ruch Chorzów - Ch.G³ogów
+Wynik meczu - dwójtyp: 10
+Pi³ka no¿na / Polska 1.liga
+1.15
+jutro 18:00 3.png
+P.Siedlce - K.Ko³obrzeg
+Wynik meczu - dwójtyp: 10
+Pi³ka no¿na / Polska 1.liga
+1.41
+jutro 20:30 3.png
+£KS £ódŸ - Polonia W.
+Wynik meczu - dwójtyp: 10
+Pi³ka no¿na / Polska 1.liga
+1.25
+sob., 9.11.2024, 14:30 3.png
+GKS Tychy - Arka G.
+Wynik meczu - dwójtyp: 02
+Pi³ka no¿na / Polska 1.liga
+1.24
+
+Ca³kowity kurs:
+9.08 
+Stawka:
+2,00 z³
+Mo¿liwa wyp³ata:
+15,98 z³
+
+
+sob., 9.11.2024, 17:30 3.png
+Widzew - Zag.Lubin
+Wynik meczu - dwójtyp: 10
+Pi³ka no¿na / Ekstraklasa Polska
+1.34
+sob., 9.11.2024, 20:15 3.png
+Œl¹sk W. - Górnik Z.
+Wynik meczu - dwójtyp: 02
+Pi³ka no¿na / Ekstraklasa Polska
+1.51
+niedz., 10.11.2024, 12:15 3.png
+S.Mielec - P.Niepo³omice
+Wynik meczu - dwójtyp: 10
+Pi³ka no¿na / Ekstraklasa Polska
+1.26
+niedz., 10.11.2024, 14:45 3.png
+Jagiellonia - Raków Cz.
+Wynik meczu - dwójtyp: 10
+Pi³ka no¿na / Ekstraklasa Polska
+1.54
+niedz., 10.11.2024, 17:30 3.png
+Lech P. - Legia W.
+Wynik meczu - dwójtyp: 02
+Pi³ka no¿na / Ekstraklasa Polska
+1.69
+
+Ca³kowity kurs:
+6.64 
+Stawka:
+2,00 z³
+Mo¿liwa wyp³ata:
+11,69 z³
+
+
+sob., 9.11.2024, 17:30 3.png
+O.Opole - Warta Poz.
+Wynik meczu - dwójtyp: 02
+Pi³ka no¿na / Polska 1.liga
+1.53
+sob., 9.11.2024, 19:35 3.png
+Nieciecza - MiedŸ L.
+Wynik meczu - dwójtyp: 02
+Pi³ka no¿na / Polska 1.liga
+1.66
+niedz., 10.11.2024, 14:30 3.png
+W.P³ock - G.£êczna
+Wynik meczu - dwójtyp: 10
+Pi³ka no¿na / Polska 1.liga
+1.24
+niedz., 10.11.2024, 17:00 3.png
+S.Rzeszów - Z.Pruszków
+Wynik meczu - dwójtyp: 10
+Pi³ka no¿na / Polska 1.liga
+1.26
+sob., 9.11.2024, 20:15 3.png
+Œl¹sk W. - Górnik Z.
+Wynik meczu - dwójtyp: 12
+Pi³ka no¿na / Ekstraklasa Polska
+1.33
+niedz., 10.11.2024, 14:45 3.png
+Jagiellonia - Raków Cz.
+Wynik meczu - dwójtyp: 12
+Pi³ka no¿na / Ekstraklasa Polska
+1.32
+
+Ca³kowity kurs:
+6.97 
+Stawka:
+2,00 z³
+Mo¿liwa wyp³ata:
+12,27 z³
+
+
+jutro 18:00 3.png
+Piast G. - M.Lublin
+Liczba rzutów ro¿nych 9.5: +
+Pi³ka no¿na / Ekstraklasa Polska
+1.95
+jutro 20:30 3.png
+Pogoñ Sz. - R.Radom
+1.druzyna liczba rzutów ro¿nych 6.5: +
+Pi³ka no¿na / Ekstraklasa Polska
+1.85
+jutro 20:30 3.png
+£KS £ódŸ - Polonia W.
+Wynik meczu - dwójtyp: 12
+Pi³ka no¿na / Polska 1.liga
+1.27
+sob., 9.11.2024, 14:30 3.png
+GKS Tychy - Arka G.
+Wynik meczu - dwójtyp: 12
+Pi³ka no¿na / Polska 1.liga
+1.28
+dzisiaj 19:00 3.png
+Ruch Chorzów - Ch.G³ogów
+1.druzyna liczba rzutów ro¿nych 5.5: +
+Pi³ka no¿na / Polska 1.liga
+1.44
+
+Ca³kowity kurs:
+8.44 
+Stawka:
+2,00 z³
+Mo¿liwa wyp³ata:
+14,85 z³
