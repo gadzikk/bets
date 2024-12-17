@@ -1,0 +1,5 @@
+Dallas - Washington, 1.99, 4.15, 3.05
+Edmonton - Florida, 2.20, 4.15, 2.67
+Vancouver - Colorado, 2.91, 4.15, 2.06
+Montreal - Buffalo, 2.57, 4.30, 2.20
+Tampa Bay - Columbus, 1.71, 4.50, 3.80

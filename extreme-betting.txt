@@ -1,5 +1,5 @@
 #####################################
-##### 	EXTREME BETTING			#####
+##### 	EXTREME BETTING		#####
 #####################################
 
 balance: 300
@@ -13,6 +13,19 @@ balance: 300
 
 https://planetcalc.com/4241/
 https://www.dcode.fr/permutations-with-repetitions
+https://planetcalc.com/3757/
+https://www.unit-conversion.info/texttools/shuffle-lines/#data
+
+obecnie:
+- mam sortowanie lanuchow po kursie
+- wybieranie faworyta
+- wybieranie 1 niespodzianki
+- (do zrobienia) wybieranie 2,3 niespodzianek
+
+strategie:
+- faworyt + kilka 1 niespodzianki
+- faworyt + 2,3 niespodzianki
+- faworyt + zapewnienie pewnosci poczatka lancucha
 
 A B		1 0 2	01 02 12
 C D		1 0 2	01 02 12
@@ -281,11 +294,11 @@ END::: ZDARZENIA 5 * {1,2} :::END
 
 ########## 09/12/2024 ##########
 
-Ruse E.G. - Blinkova A.
-Martic P. - Saito S.
-Tikhonova A. - Jacquemot E.
-Charaeva A. - Yastremska D.
-Dodin O. - Naef C.
+Ruse E.G. - Blinkova A. 2
+Martic P. - Saito S. 2
+Tikhonova A. - Jacquemot E. 2
+Charaeva A. - Yastremska D. 2
+Dodin O. - Naef C. 2
 
 11111 49.10 86,42 zł
 11112 35.45 62,39 zł
@@ -296,12 +309,12 @@ Dodin O. - Naef C.
 21122 20.28 35,69 zł
 21211 23.37 41,13 zł
 22212 16.34 28,76 zł
-22222 12.10 21,30 zł
+22222 12.10 21,30 zł V
 
-10 KUPONOW, -20, SZANSA 30 PROCENT
+10 KUPONOW, -20 + 21,30, SZANSA 30 PROCENT
 
-ZAKSA Kędzierzyn - Projekt Warszawa 
-MKS Będzin - GKS Katowice 
+ZAKSA Kędzierzyn - Projekt Warszawa 2
+MKS Będzin - GKS Katowice 2
 LUK Lublin - Warta Zawiercie 
 Skra Bełchatów - AZS Olsztyn 
 Ślepsk Suwałki - Norwid Częstochowa 
@@ -319,11 +332,11 @@ Skra Bełchatów - AZS Olsztyn
 
 10 KUPONOW, -20, SZANSA 30 PROCENT
 
-Columbus - Philadelphia 
-New Jersey - Toronto 
-N.Y.Islanders - Los Angeles 
-Winnipeg - Boston 
-Edmonton - Tampa Bay 
+Columbus - Philadelphia 2
+New Jersey - Toronto 2D
+N.Y.Islanders - Los Angeles 2
+Winnipeg - Boston 1
+Edmonton - Tampa Bay 1
 
 11111 59.50 104,72 zł
 11112 87.19 153,45 zł
@@ -342,12 +355,12 @@ Edmonton - Tampa Bay
 22221 88.48 155,72 zł
 22222 129.65 228,18 zł
 
-16 KUPONOW, -32, SZANSA 50 PROCENT
+16 KUPONOW, -32, SZANSA 50 PROCENT X
 
-Utah - Minnesota
-Buffalo - N.Y.Rangers
-Vancouver - St. Louis
-Seattle - Florida
+Utah - Minnesota 2D
+Buffalo - N.Y.Rangers 2
+Vancouver - St. Louis 2D
+Seattle - Florida 2D
 
 1111 41.34 72,76 zł
 1112 32.20 56,67 zł
@@ -360,6 +373,290 @@ Seattle - Florida
 2121 23.03 40,53 zł
 2122 17.94 31,57 zł
 2211 63.98 112,60 zł
-2222 29.90 52,62 zł
+2222 29.90 52,62 zł V
 
-12 KUPONOW, -24, SZANSA 75 PROCENT
+12 KUPONOW, -24 + 52, SZANSA 75 PROCENT
+
+Parrizas Diaz N. - Golubic V., 2.50, 1.67 1
+Peniston R. - Gea A., 1.52, 2.35 2
+Johns G. - Ayeni A., 1.65, 2.05 2
+Beckley A / Caripi V - Asaba A. / Lorusso L., 1.52, 2.35 2
+Thamchaiwat B. - Kulambayeva Z., 1.70, 2.00 1
+
+21111 10.82 19.04
+21112 12.73 22.40
+21211 13.45 23.67
+11111 13.61 23.95
+21121 16.73 29.44
+
+5 KUPONOW -10 X
+
+(14/12/2024 12:00)
+Sach T.L. / Shepp A. - Becroft I. / Rai A., 2.43, 1.48 2
+Beckley A. / Caripi V. - Asaba A. / Lorusso L., 1.56, 2.23 2
+Simakin I. / Stevenson K. - Hrazdil J. / Poljak D., 1.65, 2.07 1
+Divar C. / Gonzalez Fernandez M. - Bilardo J. / Vulpitta G., 2.42, 1.48 1
+Ciavarella N. / De Michele F. - Catini N. / Compagnucci T., 2.33, 1.51 1
+
+21122 8.51 14,98 zł
+21222 10.68 18,80 zł
+22122 12.17 21,42 zł 
+21121 13.14 23,13 zł
+21112 13.92 24,50 zł
+
+4 KUPONY -8 X
+
+(14/12/2024 22:00)
+Chicago - Charlotte, 1.50, 2.75 1
+Denver - L.A.Clippers, 1.46, 3.10 1
+Portland - San Antonio, 2.39, 1.71 2
+Milwaukee - Atlanta, 1.66, 2.49 1
+Oklahoma - Houston, 1.50, 2.95 1
+
+11211 9.64 16,97 zł
+11111 
+11221 
+21211 
+11212 
+
+5 KUPONY -10 + 16.97 = 6.97
+
+(14/12/2024 19:00)
+DePaul Blue Demons - Wichita State Shockers, 1.77, 2.30 1
+Purdue Boilermakers - Texas AM Aggies, 1.75, 2.34 2
+Youngstown State Penguins - Toledo Rockets, 1.80, 2.27 1
+Western Kentucky Hilltoppers - Murray State Racers, 1.66, 2.50 1
+Georgia State Panthers - Charlotte 49ers, 1.94, 2.09 2
+
+11111 17.96 31,61 zł
+11112 19.34 34,04 zł
+11211 22.64 39,85 zł 
+21111 23.33 41,06 zł
+12111 24.13 42,47 zł
+
+5 KUPONY -10 X
+
+(14/12/2024 12:15)
+Biatlon-K. / Hochfilzen-10km bieg pościgowy-kto lepszy 
+Braisaz Bouchet J. - Simon J., 1.65, 2.11 1
+Jeanmonnot L. - Knotten K., 1.50, 2.41 2
+Oeberg E. - Wierer D., 1.67, 2.07 2
+Chauveau S. - Davidova M., 1.65, 2.11 1
+
+1111 6.82 12,00 zł
+1121 8.72 15,35 zł
+1112 10.96 19,29 zł
+2111 8.72 15,35 zł
+
+4 KUPONY -8 X
+
+(14/12/2024 22:00) Hokej / NHL
+New Jersey - Chicago, 1.47, 4.8, 5.5 1
+Minnesota - Philadelphia, 1.97, 4.15, 3.10 1
+Edmonton - Las Vegas, 2.00, 4.2, 2.96 1
+N.Y.Rangers - Los Angeles, 2.36, 4.05, 2.52 2
+
+1111 13.67 24,06 zł
+1110 23.46 41,29 zł
+1011 28.79 50,67 zł
+1101 28.70 50,51 zł
+0111 44.63 78,55 zł
+1010 49.41 86,96 zł
+1100 49.26 86,70 zł
+2111 51.14 90,01 zł
+2112 54.61 96,11 zł
+2110 87.76 154,46 zł
+
+10 KUPONY -20 X
+
+(14/12/2024 24:00) Hokej / NHL
+Ottawa - Pittsburgh, 2.11, 4.15, 2.82 0
+Detroit - Toronto, 3.20, 4.20, 1.92 1
+Washington - Buffalo, 1.84, 4.20, 1.92 1
+Columbus - Anaheim, 1.91, 4.20, 3.15 0
+
+1211 14.24 25,06 zł
+1111 23.73 41,76 zł
+0211 28.00 49,28 zł
+1011 31.14 54,81 zł
+1210 31.31 55,11 zł
+1201 32.50 57,20 zł
+2211 19.03 33,49 zł
+1001 71.09 125,12 zł
+2011 41.62 73,25 zł
+2210 41.84 73,64 zł
+2002 156.70 275,79 zł
+2100 159.18 280,16 zł
+
+12 KUPONY -24 X
+
+
+3 SUPRISES IN 5 TWO SLOT EVENTS (9)
+11111 (FAV)
+22211	012
+12221	123
+11222	234
+21122	340
+22112   014
+12122 -	134
+12212	124
+21212 - 024
+21221	023
+
+2 SUPRISES IN 5 TWO SLOT EVENTS (9)
+11111 (FAV)
+22111	01
+12211	12
+11221	23
+11122	34
+21112   40
+12121 -	13
+12112	14
+21211 - 02
+21121	03
+
+3 SUPRISES IN 4 TWO SLOT EVENTS (4)
+1111 (FAV)
+2221	012
+1222	123
+2122	023
+2212	013
+
+2 SUPRISES IN 4 TWO SLOT EVENTS (5)
+1111 (FAV)
+2211	01
+1221	12
+1122	23
+2112	03
+1212	13
+
+3 SUPRISES IN 6 TWO SLOT EVENTS (16)
+111111 (FAV)
+222111	012
+122211	123
+112221	234
+111222	345
+211122  045
+221112 	015
+121221- 134
+121122	145
+122112	125
+122121	124
+212211-	023
+212112	025
+211221	034
+212121	024
+221211	013
+221121	014
+
+2 SUPRISES IN 6 TWO SLOT EVENTS (15)
+111111 (FAV)
+221111	01
+122111	12
+112211	23
+111221	34
+111122  45
+211112 	05
+121211- 13
+121121	14
+121112	15
+112121	24
+112112-	25
+111212	35
+212111	02
+211211	03
+211121	04
+
+(15/12/2024 16:00 M-ITF)
+Gengel M. - Simakin I., 1.57, 2.17 1
+Bertran P. - Ayeni A., 2.14, 1.58 2
+Liu S. - Valsecchi P., 2.05, 1.63 2
+Werner E.J. - Zhang Changli, 2.12, 1.59 1
+Fonio G. - Gea A., 1.73, 1.92 2
+
+12222 11.12 19,57 zł
+12221 12.50 22,00 zł
+12122 14.17 24,94 zł
+12212 15.02 26,44 zł
+22222 15.57 27,40 zł
+22121 21.73 38,24 zł
+
+6 KUPONY -12 + 26.44
+
+(15/12/2024 12:30 SKOKI)
+Paschke P. - Deschwanden G., 1.35, 2.94 1
+Wellinger A. - Hoerl J., 1.75, 1.96 2
+Tschofenig D. - Sundal K.E., 1.50, 2.41 2
+Kraft S. - Ortner M., 1.65, 2.11 1
+
+1111 5.85 10,30 zł
+1211 6.55 11,53 zł
+1112 7.48 13,16 zł
+2111 12.73 22,40 zł
+2211 14.26 25,10 zł
+2112 16.28 28,65 zł
+
+6 KUPONY -12 X
+
+(15/12/2024 22:00 NHL)
+Chicago - N.Y.Islanders, 3.15, 4.20, 1.93 1
+Toronto - Buffalo, 1.79, 4.30, 3.50 1
+St. Louis - N.Y.Rangers, 2.82, 4.15, 2.11 1
+Minnesota - Las Vegas, 2.18, 4.15, 2.72 2
+Dallas - Washington, 1.98, 4.15, 2.82 
+
+21211 31.46 55,37 zł
+11001 192.28 338,41 zł
+11010 211.70 372,59 zł
+21200 125.54  226 zł
+20021 185.48 326,44 zł
+01110 189.52 333,56 zł
+00111 217.21 382,29 zł
+10201 234.84 413,32 zł
+22001 230.35 405,42 zł
+10011 242.63 427,03 zł
+
+10 KUPONOW -20 X
+
+(18/12/2024 02:00 NBA)
+Orlando - New York, 2.70, 1.58
+San Antonio - Minnesota, 2.75, 1.55
+Golden State - Dallas, 2.28, 1.77
+L.A.Lakers - Memphis, 2.55, 1.64
+Oklahoma - Milwaukee, 1.58,	 2.60
+
+11221 34.26 60,30 zł
+11121 44.77 78,80 zł
+12221 18.96 33,37 zł
+12121 24.78 43,61 zł
+21221 20.05 35,29 zł
+21121 26.20 46,11 zł
+22121 14.50 25,52 zł
+22211 17.26 30,38 zł
+
+8 KUPONOW -16
+
+(18/12/2024 02:00 NHL)
+Dallas - Washington, 1.99, 4.15, 3.05
+Edmonton - Florida, 2.20, 4.15, 2.67
+Vancouver - Colorado, 2.91, 4.15, 2.06
+Montreal - Buffalo, 2.57, 4.30, 2.20
+Tampa Bay - Columbus, 1.71, 4.50, 3.80
+01221 71.08 123,64 zł
+01211 82.06 144,43 zł
+02221 84.87 149,37 zł
+02211 99.14 174,49 zł
+10221 63.25 111,32 zł
+10211 73.89 130,05 zł
+11221 33.68 59,28 zł
+11211 39.35 69,26 zł
+12221 40.69 71,61 zł
+12211 47.54 83,67 zł
+20221 96.94 170,61 zł
+20211 113.25 199,32 zł
+21221 51.63 90,87 zł
+21211 60.31 106,15 zł
+22221 62.37 109,77 zł
+22211 72.86 127,62 zł
+
+16 KUPONOW -32
