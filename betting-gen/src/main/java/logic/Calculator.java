@@ -45,7 +45,8 @@ public class Calculator {
 //                System.out.println(res);
                 var cumulativeOdd = res.stream()
                         .map(Result::getOdd)
-                        .reduce(0.0, Double::sum);
+//                        .reduce(0.0, Double::sum);
+                        .reduce(0.974, (a, b) -> a * b);
                 var cumulativeSlots = res.stream()
                         .map(Result::getSlot)
                         .map(Object::toString)
@@ -66,6 +67,14 @@ public class Calculator {
         return sortedMapByValues;
     }
 
+/*
+    public Map<String, Double> findSurprises(List<Result> favs, int eventSize, int slotSize) {
+        var idxs = selectIdxs(eventSize, slotSize);
+        // idxs foreach var res = new ArrayList(favs); possibilites; replace idx with possibility {1/2, 1/0/2}
+    }
+
+ */
+
     public Map<String, Double> findAllOdds(List<Event> events, List<String> chains) {
         var chainToOdd = new TreeMap<String, Double>();
         for (String chain : chains) {
@@ -78,7 +87,8 @@ public class Calculator {
             }
             var cumulativeOdd = res.stream()
                     .map(Result::getOdd)
-                    .reduce(0.0, Double::sum);
+//                    .reduce(0.0, Double::sum);
+                    .reduce(0.974, (a, b) -> a * b);
             chainToOdd.put(chain, cumulativeOdd);
         }
         Map<String, Double> sortedChanToOddByValues = chainToOdd.entrySet().stream()
@@ -251,3 +261,5 @@ public class Calculator {
         return count <= occurrences;
     }
 }
+
+// liczenie wygranej kurs x 2 x 0.88
