@@ -26,6 +26,11 @@ strategie:
 - faworyt + kilka 1 niespodzianki
 - faworyt + 2,3 niespodzianki
 - faworyt + zapewnienie pewnosci poczatka lancucha
+- pominiecie 2,3 pierwszych i zbieranie 3 z poczatku lancucha + dolozenie kilku remisowych
+- kurs ponizej 1,8 na 3 slotowe wydarzenie preferowac lancuch rozpoczynajacy sie od faworytow
+
+dyscypliny:
+- nhl nalezy zagrac na bez remisow plus na koncu dolozyc po kilka remisowych
 
 A B		1 0 2	01 02 12
 C D		1 0 2	01 02 12
@@ -726,10 +731,10 @@ Tampa Bay - St. Louis, 1.73, 4.40, 3.75 1
 18 KUPONOW -36 + 107
 
 (21/12/2024 22:00 NHL)
-Dallas - N.Y.Rangers, 1.89, 4.15, 3.30
-Detroit - Montreal, 2.00, 4.15, 3.00
-Buffalo - Toronto, 2.91, 4.20, 2.02 
-Washington - Carolina, 2.96, 4.15, 2.03
+Dallas - N.Y.Rangers, 1.89, 4.15, 3.30 2
+Detroit - Montreal, 2.00, 4.15, 3.00 2
+Buffalo - Toronto, 2.91, 4.20, 2.02 2
+Washington - Carolina, 2.96, 4.15, 2.03 1
 
 1111 32.56 57,31 zł
 1120 31.84 56,04 zł
@@ -747,7 +752,7 @@ Washington - Carolina, 2.96, 4.15, 2.03
 2220 83.40 146,78 zł
 2202 84.41 148,56 zł
 
-15 KUPONOW -30
+15 KUPONOW -30 X
 
 (22/12/2024 22:00 NHL)
 Minnesota - Utah, 2.20, 4.05, 2.67
@@ -776,14 +781,14 @@ Vancouver - Ottawa, 2.11, 4.05, 2.87
 22110 96.38 169,63 zł
 22011 104.65 184,18 zł
 
-19 KUPONOW - 38
+19 KUPONOW -38
 
 (22/12/2024 22:00 NHL)
-Toronto - N.Y.Islanders, 1.90, 4.20, 3.20
-Montreal - Detroit, 2.52, 4.05, 2.28
-New Jersey - Pittsburgh, 1.73, 4.30, 3.80
-Philadelphia - Columbus, 1.81, 4.30, 3.25
-Winnipeg - Minnesota, 2.05, 4.15, 2.91
+Toronto - N.Y.Islanders, 1.90, 4.20, 3.20 2
+Montreal - Detroit, 2.52, 4.05, 2.28 1
+New Jersey - Pittsburgh, 1.73, 4.30, 3.80 1
+Philadelphia - Columbus, 1.81, 4.30, 3.25 0
+Winnipeg - Minnesota, 2.05, 4.15, 2.91 1
 
 01111 66.17399085864
 02111 59.871706014959976
@@ -810,11 +815,11 @@ Winnipeg - Minnesota, 2.05, 4.15, 2.91
 22121 81.90814819199998
 22122 116.2696152384
 
-24 KUPONY -48
+24 KUPONY -48 + 210
 
 (22/12/2024 22:00 NHL)
-Las Vegas - Seattle, 1.82, 4.20, 3.50
-N.Y.Rangers - Carolina, 2.77, 3.95, 2.08
+Las Vegas - Seattle, 1.82, 4.20, 3.50 1
+N.Y.Rangers - Carolina, 2.77, 3.95, 2.08 
 Tampa Bay - Florida, 2.28, 4.15, 2.47
 Utah - Anaheim,, 1.89, 4.20, 3.05
 Washington - Los Angeles, 2.38, 4.15, 2.38
@@ -867,4 +872,7 @@ Edmonton - Ottawa, 1.89, 4.20, 3.15
 
 14 KUPONOW -28
 
-Sivasspor - Samsunspor BetBuilder 	 3.60 	 3.40 	 1.98 	 +48 	21.12. 14:00 Besiktas - Alanyaspor BetBuilder 	 1.64 	 4.00 	 4.60 	 +48 	21.12. 17:00 Gaziantep FK - Antalyaspor BetBuilder 	 2.11 	 3.40 	 3.25 	 +42 	22.12. 11:30 Goztepe - Caykur Rizespor BetBuilder 	 2.05 	 3.30 	 3.50 	 +42 	22.12. 14:00
+Usyk Oleksandr - Fury Tyson, 1.67, 17.00, 2.35
+1 1.67 146,96 zł
+
+1 KUPONOW -100 + 146.96

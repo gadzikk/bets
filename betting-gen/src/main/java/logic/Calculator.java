@@ -46,7 +46,8 @@ public class Calculator {
                 var cumulativeOdd = res.stream()
                         .map(Result::getOdd)
 //                        .reduce(0.0, Double::sum);
-                        .reduce(0.974, (a, b) -> a * b);
+                        // 0.974
+                        .reduce(1.0, (a, b) -> a * b);
                 var cumulativeSlots = res.stream()
                         .map(Result::getSlot)
                         .map(Object::toString)
@@ -88,7 +89,7 @@ public class Calculator {
             var cumulativeOdd = res.stream()
                     .map(Result::getOdd)
 //                    .reduce(0.0, Double::sum);
-                    .reduce(0.974, (a, b) -> a * b);
+                    .reduce(1.0, (a, b) -> a * b);
             chainToOdd.put(chain, cumulativeOdd);
         }
         Map<String, Double> sortedChanToOddByValues = chainToOdd.entrySet().stream()
@@ -186,7 +187,7 @@ public class Calculator {
         System.out.println("##### DOUBLE DRAW ##### \n");
         return null;
     }
-
+/*
     public Map<String, Double> filterForStartsWith2(Map<String, Double> all) {
         var doubleDraw = all.entrySet().stream()
                 .filter(e -> e.getKey().startsWith("2")).collect(Collectors.toList());
@@ -195,6 +196,8 @@ public class Calculator {
         System.out.println("##### STARTS WITH 2 ##### \n");
         return null;
     }
+
+ */
 
     public Map<String, List<Map.Entry<String, Double>>> filterForStartingChain(Map<String, Double> all, int slotSize) {
         var startToChain = new TreeMap<String, List<Map.Entry<String, Double>>>();
