@@ -174,6 +174,8 @@ public class Calculator {
             return C.FIVE_2SLOT_EVENTS;
         } else if (eventsSize == 6 && slotSize == 2) {
             return C.SIX_2SLOT_EVENTS;
+        } else if (eventsSize == 7 && slotSize == 2) {
+            return C.SEVEN_2SLOT_EVENTS;
         } else {
             return List.of();
         }

@@ -7,10 +7,13 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.util.ArrayList;
 import java.util.List;
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 public class FileProcessor {
     public static final String TEMPLATE = "C:\\Users\\gadzi\\IdeaProjects\\betting-gen\\src\\main\\resources\\template.txt";
     public static final String EXHBS = "C:\\Users\\gadzi\\IdeaProjects\\betting-gen\\src\\main\\resources\\exhbs.txt";
+    public static final String STS = "C:\\Users\\gadzi\\IdeaProjects\\betting-gen\\src\\main\\resources\\sts.txt";
 
     public List<Event> readTemplate() throws Exception {
         BufferedReader br = new BufferedReader(new FileReader(TEMPLATE));
@@ -90,6 +93,82 @@ public class FileProcessor {
         });
         System.out.println("##### EXHBS ##### \n");
         return events;
+    }
+
+    public List<Event> readSts() throws Exception {
+        BufferedReader br = new BufferedReader(new FileReader(STS));
+        var events = new ArrayList<Event>();
+        Event event = null;
+        var buffer = new ArrayList<String>();
+
+        String line = br.readLine();
+        while (line != null) {
+            buffer.add(line);
+            line = br.readLine();
+        }
+
+        for (int idx = 0; idx < buffer.size(); idx++) {
+            if ("-".equals(buffer.get(idx))) {
+                event = new Event();
+                var teamA = buffer.get(idx - 1);
+                var teamB = buffer.get(idx + 1);
+                event.setName(teamA + " - " + teamB);
+            }
+
+            if (event != null && isDouble(buffer.get(idx))) {
+                var numberOfOdds = countNumberOfOddsInEvent(idx, buffer);
+                var odds = calculateOdds(idx, buffer, numberOfOdds);
+                odds.forEach(event::addSlotOdd);
+                events.add(event);
+                event = null;
+            }
+        }
+
+        var slotSize = events.get(0).getSlotOdds().size();
+        if (slotSize == 2) {
+            rearrangeResultsFor2Slot(events);
+        } else if (slotSize == 3) {
+            rearrangeResultsFor3Slot(events);
+            removeUnexpectedDraws(events);
+        }
+        System.out.println("##### STS #####");
+        events.forEach(e -> {
+            System.out.print(e.getName());
+            e.getSlotOdds().forEach(so -> System.out.print(", " + so.getOdd()));
+            System.out.println("");
+        });
+        System.out.println("##### STS ##### \n");
+        return events;
+    }
+
+    private Integer countNumberOfOddsInEvent(int idx, List<String> buffer) {
+        var fstOdd = buffer.get(idx);
+        var sndOdd = buffer.get(idx + 1);
+
+        if (isDouble(fstOdd) && isDouble(sndOdd)) {
+            return 2;
+        } else return 3;
+    }
+
+    private List<Double> calculateOdds(int idx, List<String> buffer, int numberOfOdds) {
+        Stream<String> oddsStream;
+        if (numberOfOdds == 2) {
+            oddsStream = Stream.of(
+                    buffer.get(idx),
+                    buffer.get(idx + 1)
+            );
+        } else {
+            oddsStream = Stream.of(
+                    buffer.get(idx),
+                    buffer.get(idx + 1),
+                    buffer.get(idx + 2)
+            );
+        }
+        return oddsStream.map(this::adjustStsOdds).collect(Collectors.toList());
+    }
+
+    private double adjustStsOdds(String odd) {
+        return Double.parseDouble(odd.substring(1));
     }
 
     private void rearrangeResultsFor3Slot(List<Event> events) {
